@@ -2,10 +2,8 @@
   <h1>Hola, soy Edin 👋</h1>
 </div>
 
-
-## Hola, soy Edin 👋
-
-
+<div align='center'>
+  
 <a href="https://twitter.com/edinvd">
   <img align = "left" alt = "Twitter de Edin" width = "22px" src = "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" />
 </a>
@@ -27,6 +25,8 @@
 <a href="https://www.youtube.com/channel/UC-tobj5PwZMcjaAch_dW4TA">
   <img align = "left" alt = "Youtube de Edin" width = "22px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/600px-YouTube_social_white_squircle.svg.png" />
 </a>
+
+</div>
 
 <br/>
 <br/>
